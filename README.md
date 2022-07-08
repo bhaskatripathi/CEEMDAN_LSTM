@@ -9,7 +9,7 @@ This is a novel concept, and it is the responsibility of future researchers to i
 ### Example:
 Figures 1 and 2 illustrate the decomposition of Ethereum time series. The residue depicted in figure 1 has been decomposed on multiple levels, however but I am only including the first decomposition of the residue. Using the preceding iterative process, the residue can be reduced down to the point where no pattern remains.
 #### Figure 1
-![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/1.jpg)
+![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/2.jpg)
 
 #### Figure 2
-![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/2.jpg)
+![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/1.jpg)
