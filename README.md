@@ -12,7 +12,7 @@ The novelty in this particular scenario is that the residue has been iteratively
 This is a novel concept, and it is the responsibility of future researchers to incorporate it into their own work. Please provide a citation to this repository in your work.
 
 ### Example:
-Figures 1 and 2 illustrate the decomposition of Ethereum time series. The residue depicted in figure 1 has been decomposed on multiple levels, however but I am only including the first decomposition of the residue. Using the preceding iterative process, the residue can be reduced down to the point where no pattern remains.
+Figures 1 and 2 illustrate the decomposition of Ethereum time series. The residue depicted in figure 1 is utilized as an input in Figure 2. The residue is iteratively decomposed at multiple levels. However in case of Ethereum, I am only including the first decomposition of the residue which removes most of the noise and results into a smooth pattern. Using the preceding iterative process, the residue can be reduced down to the point where no pattern remains.
 #### Figure 1
 ![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/2.jpg)
 
