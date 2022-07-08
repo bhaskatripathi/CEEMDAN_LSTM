@@ -1,5 +1,10 @@
 # CEEMDAN_LSTM
-## Complete Ensemble Empirical Mode Decomposition with Adaptive Noise
+
+### Abstract
+The code predicts Ethereum prices for next day, 15 days and 30 days in future. It utilizes EMD, EEMD and CEEMDAN family of data decomposition algorithms. The input time series is broken down into various Intrinsic mode functions and a residue. The residue is further broken iteratively until no pattern is left. Finally, the aggregated sum of all data is taken. The resultant data is has an improved noise-to-signal ratio and results into a better forecast with any deep learning model like LSTM, CNN, CNN-BiLSTM etc.
+
+
+### Complete Ensemble Empirical Mode Decomposition with Adaptive Noise
 An advancement on the EEMD method, Complete Ensemble Empirical Mode Decomposition with Adaptive Noise (CEEMDAN) allows for a granular spectral separation of the Intrinsic Mode Functions and a more precise reconstruction of the original signal (IMFs). I utilize CEEMDAN and LSTM to forecast Ethereum prices multiple steps ahead.
 
 ### Novelty and main contribution :
