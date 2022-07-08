@@ -1,7 +1,7 @@
 # CEEMDAN_LSTM
 
 ### Abstract
-The code predicts Ethereum prices for next day, 15 days and 30 days in future. It utilizes EMD, EEMD and CEEMDAN family of data decomposition algorithms. The input time series is broken down into various Intrinsic mode functions and a residue. The residue is further broken iteratively until no pattern is left. Finally, the aggregated sum of all data is taken. The resultant data is has an improved noise-to-signal ratio and results into a better forecast with any deep learning model like LSTM, CNN, CNN-BiLSTM etc.
+The code predicts Ethereum prices for next day, 15 days and 30 days in future. It utilizes EMD, EEMD and CEEMDAN family of data decomposition algorithms. The input time series is broken down into various Intrinsic mode functions and a residue. The residue is further broken iteratively until no pattern is left. Finally, the aggregated sum of all data is taken. The resultant data is has an improved noise-to-signal ratio and results into a better forecast with any deep learning model such as LSTM, CNN, CNN-BiLSTM or Supervised model.
 
 
 ### Complete Ensemble Empirical Mode Decomposition with Adaptive Noise
