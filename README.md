@@ -12,4 +12,4 @@ Figures 1 and 2 illustrate the decomposition of Ethereum time series. The residu
 ![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/1.jpg)
 
 #### Figure 2
-![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/w.jpg)
+![CEEMDAN](https://github.com/bhaskatripathi/CEEMDAN_LSTM/blob/main/2.jpg)
