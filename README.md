@@ -1,3 +1,9 @@
+![CEEMDAN](https://img.shields.io/static/v1?label=License&message=MIT&color=<COLOR>)
+![CEEMDAN](https://img.shields.io/static/v1?label=dockerbuild&message=passing&color=<COLOR>)
+![CEEMDAN](https://img.shields.io/static/v1?label=dockerbuild&message=passing&color=<COLOR>)
+
+
+
 # CEEMDAN_LSTM
 
 ### Abstract
